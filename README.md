@@ -11,7 +11,7 @@ Front-End: React-dnd, react-dnd-html5-backend, React.js, ES6, JSX, Materialize, 
 
 Back-End: MongoDB, Passport Authentication, Nodemon, Webpack, Babel, Express, ORM file structure, Axios, Mongoose
 
-#Demo
+I contributed to this group project by working on the react drag-and-drop garden page and by drawing the data flow sheet.  
 
 Check out Bee-Z Street here https://bee-z-street.herokuapp.com/
 
